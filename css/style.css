@@ -1,0 +1,18 @@
+.card-surat{
+    cursor: pointer;
+    transition: .8s;
+}
+.card-surat:hover{
+    background-color: #99f7bc;
+}
+footer{
+    background: #99f7bc;
+    height: 40px;
+}
+.text-footer{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(140, 150, 160);
+    font-size: 20px;
+    font-weight: 600;
+}
